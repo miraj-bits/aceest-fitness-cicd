@@ -13,7 +13,7 @@ This project includes a simple Flask web API for tracking workouts. It is contai
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/aceest-fitness-cicd.git
+    git clone https://github.com/miraj-bits/aceest-fitness-cicd.git
     cd aceest-fitness-cicd
     ```
 
